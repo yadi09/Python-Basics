@@ -1,2 +1,2 @@
 def sum_numbers(a, b):
-    return 8
+    return a + b
