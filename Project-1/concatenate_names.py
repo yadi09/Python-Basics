@@ -1,2 +1,2 @@
-def concatenate_names(Name, Lname):
+def concatenate_name(Name, Lname):
     return Name + Lname
